@@ -4,4 +4,4 @@
 [Lesson 16](https://avokado-hub.github.io/Adaptive/src/ "Adaptive project")
 
 
-[Для мого кошеня](https://avokado-hub.github.io/Valentine`s day/)
+[Для мого кошеня](https://avokado-hub.github.io/Valentine`sDay)
